@@ -1,0 +1,29 @@
+[32m[INFO]  02-27-2025 00:48:59 GLCache.c:166  (tid=140234923755072): GLCache_LEARNED, 10MB, segment_size 100, training_interval 86400, source 0, rank interval 0.02, merge consecutive segments 1, merge 2 segments
+[0m[32m[INFO]  02-27-2025 00:48:59 cli_parser.c:118  (tid=140234923755072): trace path: /mnt/f/traces/fiu/fiu_casa-110108-112108.oracleGeneral, trace_type ORACLE_GENERAL_TRACE, eviction GLCache, ofilepath fiu_casa-110108-112108.oracleGeneral.cachesim, 12 threads, warmup -1 sec
+[0m[32m[INFO]  02-27-2025 00:48:59    sim.c:16   (tid=140234923755072): simulate: GLCache
+[0m[32m[INFO]  02-27-2025 00:48:59    sim.c:27   (tid=140234923755072): GL-Cache Detected![0m[32m[INFO]  02-27-2025 00:49:00    sim.c:67   (tid=140234923755072): 24.01 hour: 972715 requests, miss ratio 0.1226, interval miss ratio 0.1226
+[0m[32m[INFO]  02-27-2025 00:49:00    sim.c:67   (tid=140234923755072): 48.01 hour: 2033712 requests, miss ratio 0.0628, interval miss ratio 0.0079
+[0m[32m[INFO]  02-27-2025 00:49:00  train.c:109  (tid=140234923755072): Train
+[0m[32m[INFO]  02-27-2025 00:49:00  train.c:126  (tid=140234923755072): training time 0.0042 sec
+[0m[32m[INFO]  02-27-2025 00:49:01    sim.c:67   (tid=140234923755072): 72.01 hour: 3166015 requests, miss ratio 0.0546, interval miss ratio 0.0399
+[0m[32m[INFO]  02-27-2025 00:49:01  train.c:109  (tid=140234923755072): Train
+[0m[32m[INFO]  02-27-2025 00:49:01  train.c:126  (tid=140234923755072): training time 0.0046 sec
+[0m[32m[INFO]  02-27-2025 00:49:02    sim.c:67   (tid=140234923755072): 96.01 hour: 4424110 requests, miss ratio 0.0457, interval miss ratio 0.0233
+[0m[32m[INFO]  02-27-2025 00:49:02  train.c:109  (tid=140234923755072): Train
+[0m[32m[INFO]  02-27-2025 00:49:02  train.c:126  (tid=140234923755072): training time 0.0038 sec
+[0m[32m[INFO]  02-27-2025 00:49:02    sim.c:67   (tid=140234923755072): 120.01 hour: 5547943 requests, miss ratio 0.0388, interval miss ratio 0.0116
+[0m[32m[INFO]  02-27-2025 00:49:02  train.c:109  (tid=140234923755072): Train
+[0m[32m[INFO]  02-27-2025 00:49:02  train.c:126  (tid=140234923755072): training time 0.0045 sec
+[0m[32m[INFO]  02-27-2025 00:49:03    sim.c:67   (tid=140234923755072): 144.01 hour: 6819192 requests, miss ratio 0.0340, interval miss ratio 0.0132
+[0m[32m[INFO]  02-27-2025 00:49:03  train.c:109  (tid=140234923755072): Train
+[0m[32m[INFO]  02-27-2025 00:49:03  train.c:126  (tid=140234923755072): training time 0.0051 sec
+[0m[32m[INFO]  02-27-2025 00:49:03    sim.c:67   (tid=140234923755072): 168.01 hour: 7960222 requests, miss ratio 0.0314, interval miss ratio 0.0160
+[0m[32m[INFO]  02-27-2025 00:49:03  train.c:109  (tid=140234923755072): Train
+[0m[32m[INFO]  02-27-2025 00:49:03  train.c:126  (tid=140234923755072): training time 0.0085 sec
+[0m[32m[INFO]  02-27-2025 00:49:03    sim.c:67   (tid=140234923755072): 192.01 hour: 7974406 requests, miss ratio 0.0314, interval miss ratio 0.0013
+[0m[32m[INFO]  02-27-2025 00:49:03  train.c:109  (tid=140234923755072): Train
+[0m[32m[INFO]  02-27-2025 00:49:03  train.c:126  (tid=140234923755072): training time 0.0058 sec
+[0m[32m[INFO]  02-27-2025 00:49:04    sim.c:86   (tid=140234923755072): [GL-Cache] n_train: 7, n_train_samples: 2502
+[0m[32m[INFO]  02-27-2025 00:49:04    sim.c:87   (tid=140234923755072): [GL-Cache: After Train] req: 6939442, miss: 198216, missRatio: 0.0286
+[0m[32m[INFO]  02-27-2025 00:49:04    sim.c:100  (tid=140234923755072): 213.28 hour: /mnt/f/traces/fiu/fiu_casa-110108-112108.oracleGeneral, cache size 10485760, GLCache, 8973201 requests, miss ratio 0.0363, throughput 1.92 MQPS
+[0m

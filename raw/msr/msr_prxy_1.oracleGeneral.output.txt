@@ -1,0 +1,23 @@
+[32m[INFO]  02-27-2025 00:21:57 GLCache.c:166  (tid=140554693219904): GLCache_LEARNED, 2048MB, segment_size 100, training_interval 86400, source 0, rank interval 0.02, merge consecutive segments 1, merge 2 segments
+[0m[32m[INFO]  02-27-2025 00:21:57 cli_parser.c:118  (tid=140554693219904): trace path: /mnt/f/traces/msr/msr_prxy_1.oracleGeneral, trace_type ORACLE_GENERAL_TRACE, eviction GLCache, ofilepath msr_prxy_1.oracleGeneral.cachesim, 12 threads, warmup -1 sec
+[0m[32m[INFO]  02-27-2025 00:21:57    sim.c:16   (tid=140554693219904): simulate: GLCache
+[0m[32m[INFO]  02-27-2025 00:21:57    sim.c:27   (tid=140554693219904): GL-Cache Detected![0m[32m[INFO]  02-27-2025 00:22:11    sim.c:67   (tid=140554693219904): 24.00 hour: 25085821 requests, miss ratio 0.0039, interval miss ratio 0.0039
+[0m[32m[INFO]  02-27-2025 00:22:24    sim.c:67   (tid=140554693219904): 48.00 hour: 49005752 requests, miss ratio 0.0023, interval miss ratio 0.0007
+[0m[32m[INFO]  02-27-2025 00:22:24  train.c:109  (tid=140554693219904): Train
+[0m[32m[INFO]  02-27-2025 00:22:24  train.c:126  (tid=140554693219904): training time 0.0047 sec
+[0m[32m[INFO]  02-27-2025 00:22:38    sim.c:67   (tid=140554693219904): 72.00 hour: 72233144 requests, miss ratio 0.0017, interval miss ratio 0.0005
+[0m[32m[INFO]  02-27-2025 00:22:38  train.c:109  (tid=140554693219904): Train
+[0m[32m[INFO]  02-27-2025 00:22:38  train.c:126  (tid=140554693219904): training time 0.0051 sec
+[0m[32m[INFO]  02-27-2025 00:22:52    sim.c:67   (tid=140554693219904): 96.00 hour: 95250894 requests, miss ratio 0.0018, interval miss ratio 0.0020
+[0m[32m[INFO]  02-27-2025 00:22:52  train.c:109  (tid=140554693219904): Train
+[0m[32m[INFO]  02-27-2025 00:22:52  train.c:126  (tid=140554693219904): training time 0.0032 sec
+[0m[32m[INFO]  02-27-2025 00:23:06    sim.c:67   (tid=140554693219904): 120.00 hour: 118549530 requests, miss ratio 0.0021, interval miss ratio 0.0034
+[0m[32m[INFO]  02-27-2025 00:23:06  train.c:109  (tid=140554693219904): Train
+[0m[32m[INFO]  02-27-2025 00:23:06  train.c:126  (tid=140554693219904): training time 0.0039 sec
+[0m[32m[INFO]  02-27-2025 00:23:22    sim.c:67   (tid=140554693219904): 144.00 hour: 144152572 requests, miss ratio 0.0023, interval miss ratio 0.0031
+[0m[32m[INFO]  02-27-2025 00:23:22  train.c:109  (tid=140554693219904): Train
+[0m[32m[INFO]  02-27-2025 00:23:22  train.c:126  (tid=140554693219904): training time 0.0065 sec
+[0m[32m[INFO]  02-27-2025 00:23:35    sim.c:86   (tid=140554693219904): [GL-Cache] n_train: 5, n_train_samples: 1567
+[0m[32m[INFO]  02-27-2025 00:23:35    sim.c:87   (tid=140554693219904): [GL-Cache: After Train] req: 119633208, miss: 309888, missRatio: 0.0026
+[0m[32m[INFO]  02-27-2025 00:23:35    sim.c:100  (tid=140554693219904): 167.47 hour: /mnt/f/traces/msr/msr_prxy_1.oracleGeneral, cache size -2147483648, GLCache, 168638964 requests, miss ratio 0.0025, throughput 1.71 MQPS
+[0m

@@ -1,0 +1,7 @@
+[32m[INFO]  02-27-2025 00:27:37 GLCache.c:166  (tid=140452763469376): GLCache_LEARNED, 2048MB, segment_size 100, training_interval 86400, source 0, rank interval 0.02, merge consecutive segments 1, merge 2 segments
+[0m[32m[INFO]  02-27-2025 00:27:37 cli_parser.c:118  (tid=140452763469376): trace path: /mnt/f/traces/twitter/cluster10.oracleGeneral, trace_type ORACLE_GENERAL_TRACE, eviction GLCache, ofilepath cluster10.oracleGeneral.cachesim, 12 threads, warmup -1 sec
+[0m[32m[INFO]  02-27-2025 00:27:37    sim.c:16   (tid=140452763469376): simulate: GLCache
+[0m[32m[INFO]  02-27-2025 00:27:37    sim.c:27   (tid=140452763469376): GL-Cache Detected![0m[32m[INFO]  02-27-2025 00:27:48    sim.c:67   (tid=140452763469376): 24.00 hour: 16892241 requests, miss ratio 0.5000, interval miss ratio 0.5000
+[0m[32m[INFO]  02-27-2025 00:28:02    sim.c:67   (tid=140452763469376): 48.00 hour: 35686999 requests, miss ratio 0.5000, interval miss ratio 0.5000
+[0m[32m[INFO]  02-27-2025 00:28:02  train.c:109  (tid=140452763469376): Train
+[0m
