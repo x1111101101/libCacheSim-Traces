@@ -1,6 +1,0 @@
-[32m[INFO]  02-26-2025 22:08:38 GLCache.c:166  (tid=140084347340352): GLCache_LEARNED, 2048MB, segment_size 100, training_interval 86400, source 0, rank interval 0.02, merge consecutive segments 1, merge 2 segments
-[0m[32m[INFO]  02-26-2025 22:08:38 cli_parser.c:118  (tid=140084347340352): trace path: /mnt/f/traces/metaStorage/block_traces_2.oracleGeneral.bin, trace_type ORACLE_GENERAL_TRACE, eviction GLCache, ofilepath block_traces_2.oracleGeneral.bin.cachesim, 12 threads, warmup -1 sec
-[0m[32m[INFO]  02-26-2025 22:08:38    sim.c:16   (tid=140084347340352): simulate: GLCache
-[0m[32m[INFO]  02-26-2025 22:08:38    sim.c:27   (tid=140084347340352): GL-Cache Detected![0m[32m[INFO]  02-26-2025 22:08:47    sim.c:67   (tid=140084347340352): 24.00 hour: 13442108 requests, miss ratio 0.5472, interval miss ratio 0.5472
-[0m[32m[INFO]  02-26-2025 22:08:47    sim.c:100  (tid=140084347340352): 24.03 hour: /mnt/f/traces/metaStorage/block_traces_2.oracleGeneral.bin, cache size -2147483648, GLCache, 13452066 requests, miss ratio 0.5472, throughput 1.52 MQPS
-[0m

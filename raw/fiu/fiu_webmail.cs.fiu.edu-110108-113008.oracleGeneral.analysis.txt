@@ -1,0 +1,13 @@
+dat: /mnt/f/traces/fiu/fiu_webmail.cs.fiu.edu-110108-113008.oracleGeneral
+number of requests: 7795815, number of objects: 488667
+number of req GiB: 0.0581, number of obj GiB: 0.0036
+compulsory miss ratio (req/byte): 0.0627/0.0627
+object size weighted by req/obj: 8/8
+frequency mean: 15.9532
+time span: 1731590(20.0416 day)
+op: nop:7795815(1.0000), get:0(0.0000), gets:0(0.0000), set:0(0.0000), add:0(0.0000), cas:0(0.0000), replace:0(0.0000), append:0(0.0000), prepend:0(0.0000), delete:0(0.0000), incr:0(0.0000), decr:0(0.0000), read:0(0.0000), write:0(0.0000), update:0(0.0000), invalid:0(0.0000), request rate min 0.0000 req/s, max 334.1800 req/s, window 300s
+object rate min 0.0000 obj/s, max 322.9700 obj/s, window 300s
+popularity: Zipf linear fitting slope=1.3460, intercept=-1.0000, R2=-1.0000
+X-hit (number of obj accessed X times): 224717(0.4599), 47956(0.0981), 27212(0.0557), 7859(0.0161), 5451(0.0112), 5772(0.0118), 3568(0.0073), 2095(0.0043), 
+freq (fraction) of the most popular obj: 37954(0.0049), 30607(0.0039), 30551(0.0039), 28259(0.0036), 27785(0.0036), 26845(0.0034), 26379(0.0034), 25804(0.0033), 
+

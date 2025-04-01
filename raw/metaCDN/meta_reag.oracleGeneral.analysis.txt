@@ -1,0 +1,13 @@
+dat: /mnt/f/traces/metaCDN/meta_reag.oracleGeneral
+number of requests: 45623306, number of objects: 12262537
+number of req GiB: 1171620.9292, number of obj GiB: 168732.5662
+compulsory miss ratio (req/byte): 0.2688/0.1440
+object size weighted by req/obj: 27574029/14774692
+frequency mean: 3.7205
+time span: 691282(8.0009 day)
+op: nop:45623306(1.0000), get:0(0.0000), gets:0(0.0000), set:0(0.0000), add:0(0.0000), cas:0(0.0000), replace:0(0.0000), append:0(0.0000), prepend:0(0.0000), delete:0(0.0000), incr:0(0.0000), decr:0(0.0000), read:0(0.0000), write:0(0.0000), update:0(0.0000), invalid:0(0.0000), request rate min 41.0400 req/s, max 371.8533 req/s, window 300s
+object rate min 21.1300 obj/s, max 48.5333 obj/s, window 300s
+popularity: Zipf linear fitting slope=0.6445, intercept=-1.0000, R2=-1.0000
+X-hit (number of obj accessed X times): 7529588(0.6140), 2864884(0.2336), 713582(0.0582), 344479(0.0281), 177113(0.0144), 126082(0.0103), 78346(0.0064), 85090(0.0069), 
+freq (fraction) of the most popular obj: 11125252(0.2439), 202798(0.0044), 111075(0.0024), 98938(0.0022), 89733(0.0020), 63805(0.0014), 61999(0.0014), 53357(0.0012), 
+

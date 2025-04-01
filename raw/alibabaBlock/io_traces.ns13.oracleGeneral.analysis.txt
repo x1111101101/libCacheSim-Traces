@@ -1,0 +1,13 @@
+dat: /mnt/f/traces/alibabaBlock/io_traces.ns13.oracleGeneral
+number of requests: 14600000, number of objects: 8757556
+number of req GiB: 485.1629, number of obj GiB: 356.9717
+compulsory miss ratio (req/byte): 0.5998/0.7358
+object size weighted by req/obj: 35680/43767
+frequency mean: 1.6671
+time span: 2656546(30.7471 day)
+op: nop:14600000(1.0000), get:0(0.0000), gets:0(0.0000), set:0(0.0000), add:0(0.0000), cas:0(0.0000), replace:0(0.0000), append:0(0.0000), prepend:0(0.0000), delete:0(0.0000), incr:0(0.0000), decr:0(0.0000), read:0(0.0000), write:0(0.0000), update:0(0.0000), invalid:0(0.0000), request rate min 0.4700 req/s, max 21.5667 req/s, window 300s
+object rate min 0.2600 obj/s, max 20.0433 obj/s, window 300s
+popularity: Zipf linear fitting slope=0.4418, intercept=-1.0000, R2=-1.0000
+X-hit (number of obj accessed X times): 6149086(0.7021), 1972207(0.2252), 401092(0.0458), 91408(0.0104), 36501(0.0042), 29059(0.0033), 11026(0.0013), 6453(0.0007), 
+freq (fraction) of the most popular obj: 30242(0.0021), 25719(0.0018), 25258(0.0017), 17221(0.0012), 3971(0.0003), 3583(0.0002), 3446(0.0002), 3429(0.0002), 
+

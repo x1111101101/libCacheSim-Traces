@@ -1,0 +1,13 @@
+dat: /mnt/f/traces/wiki/wiki_2019u.oracleGeneral
+number of requests: 2655612611, number of objects: 49707463
+number of req GiB: 101207.0475, number of obj GiB: 7659.0289
+compulsory miss ratio (req/byte): 0.0187/0.0757
+object size weighted by req/obj: 40920/165444
+frequency mean: 53.4248
+time span: 1814399(21.0000 day)
+op: nop:2655612611(1.0000), get:0(0.0000), gets:0(0.0000), set:0(0.0000), add:0(0.0000), cas:0(0.0000), replace:0(0.0000), append:0(0.0000), prepend:0(0.0000), delete:0(0.0000), incr:0(0.0000), decr:0(0.0000), read:0(0.0000), write:0(0.0000), update:0(0.0000), invalid:0(0.0000), request rate min 381.1533 req/s, max 2377.0033 req/s, window 300s
+object rate min 280.9900 obj/s, max 1428.5667 obj/s, window 300s
+popularity: Zipf linear fitting slope=1.6212, intercept=-1.0000, R2=-1.0000
+X-hit (number of obj accessed X times): 20567465(0.4138), 6671669(0.1342), 3495550(0.0703), 2247494(0.0452), 1602647(0.0322), 1225372(0.0247), 972284(0.0196), 800767(0.0161), 
+freq (fraction) of the most popular obj: 74985760(0.0282), 22010842(0.0083), 13054913(0.0049), 7712863(0.0029), 6816588(0.0026), 4669142(0.0018), 4419900(0.0017), 4049542(0.0015), 
+

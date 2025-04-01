@@ -1,0 +1,13 @@
+dat: /mnt/f/traces/fiu/fiu_casa-110108-112108.oracleGeneral
+number of requests: 8973201, number of objects: 325844
+number of req GiB: 0.0709, number of obj GiB: 0.0030
+compulsory miss ratio (req/byte): 0.0363/0.0422
+object size weighted by req/obj: 8/9
+frequency mean: 27.5383
+time span: 767795(8.8865 day)
+op: nop:8973201(1.0000), get:0(0.0000), gets:0(0.0000), set:0(0.0000), add:0(0.0000), cas:0(0.0000), replace:0(0.0000), append:0(0.0000), prepend:0(0.0000), delete:0(0.0000), incr:0(0.0000), decr:0(0.0000), read:0(0.0000), write:0(0.0000), update:0(0.0000), invalid:0(0.0000), request rate min 0.0000 req/s, max 189.6500 req/s, window 300s
+object rate min 0.0000 obj/s, max 173.0500 obj/s, window 300s
+popularity: Zipf linear fitting slope=1.3348, intercept=-1.0000, R2=-1.0000
+X-hit (number of obj accessed X times): 123034(0.3776), 32693(0.1003), 20068(0.0616), 15439(0.0474), 8582(0.0263), 9849(0.0302), 25454(0.0781), 14360(0.0441), 
+freq (fraction) of the most popular obj: 67282(0.0075), 67261(0.0075), 67261(0.0075), 67261(0.0075), 67261(0.0075), 67260(0.0075), 67260(0.0075), 67260(0.0075), 
+

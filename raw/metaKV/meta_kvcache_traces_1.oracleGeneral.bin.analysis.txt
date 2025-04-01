@@ -1,0 +1,13 @@
+dat: /mnt/f/traces/metaKV/meta_kvcache_traces_1.oracleGeneral.bin
+number of requests: 335173084, number of objects: 16984531
+number of req GiB: 189.2590, number of obj GiB: 15.1428
+compulsory miss ratio (req/byte): 0.0507/0.0800
+object size weighted by req/obj: 606/957
+frequency mean: 19.7340
+time span: 86416(1.0002 day)
+op: nop:335173084(1.0000), get:0(0.0000), gets:0(0.0000), set:0(0.0000), add:0(0.0000), cas:0(0.0000), replace:0(0.0000), append:0(0.0000), prepend:0(0.0000), delete:0(0.0000), incr:0(0.0000), decr:0(0.0000), read:0(0.0000), write:0(0.0000), update:0(0.0000), invalid:0(0.0000), request rate min 3857.6967 req/s, max 3895.5800 req/s, window 300s
+object rate min 704.5333 obj/s, max 843.5667 obj/s, window 300s
+popularity: Zipf linear fitting slope=1.1639, intercept=-1.0000, R2=-1.0000
+X-hit (number of obj accessed X times): 8539849(0.5028), 2374787(0.1398), 1315328(0.0774), 861019(0.0507), 567441(0.0334), 463150(0.0273), 320442(0.0189), 268088(0.0158), 
+freq (fraction) of the most popular obj: 15243333(0.0455), 8233288(0.0246), 7212323(0.0215), 4485657(0.0134), 1457009(0.0043), 1278954(0.0038), 1148080(0.0034), 1108255(0.0033), 
+

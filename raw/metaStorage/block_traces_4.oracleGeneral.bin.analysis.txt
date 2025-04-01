@@ -1,0 +1,13 @@
+dat: /mnt/f/traces/metaStorage/block_traces_4.oracleGeneral.bin
+number of requests: 14262406, number of objects: 6815503
+number of req GiB: 47042.7136, number of obj GiB: 29303.5201
+compulsory miss ratio (req/byte): 0.4779/0.6229
+object size weighted by req/obj: 3541599/4616594
+frequency mean: 2.0926
+time span: 86516(1.0013 day)
+op: nop:14262406(1.0000), get:0(0.0000), gets:0(0.0000), set:0(0.0000), add:0(0.0000), cas:0(0.0000), replace:0(0.0000), append:0(0.0000), prepend:0(0.0000), delete:0(0.0000), incr:0(0.0000), decr:0(0.0000), read:0(0.0000), write:0(0.0000), update:0(0.0000), invalid:0(0.0000), request rate min 125.2333 req/s, max 203.8000 req/s, window 300s
+object rate min 68.0533 obj/s, max 101.4367 obj/s, window 300s
+popularity: Zipf linear fitting slope=0.6012, intercept=-1.0000, R2=-1.0000
+X-hit (number of obj accessed X times): 4119427(0.6044), 1216982(0.1786), 343420(0.0504), 174956(0.0257), 693981(0.1018), 114765(0.0168), 57841(0.0085), 30628(0.0045), 
+freq (fraction) of the most popular obj: 6194(0.0004), 4625(0.0003), 4014(0.0003), 3397(0.0002), 3139(0.0002), 2889(0.0002), 2822(0.0002), 2814(0.0002), 
+
